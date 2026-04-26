@@ -1,5 +1,15 @@
 # DIS_Project
 DIS group project 2024, group 66
+# Medical Clinic Management System
+
+A web-based system for managing patients, appointments, medical records, and prescriptions.
+
+## What it demonstrates
+- Database design and relational modeling (PostgreSQL)
+- Backend development using Python (Flask)
+- Role-based system (patients and doctors)
+- CRUD operations and data integrity handling
+
 ## usage
 The Medical Clinic Management System is a web application built with Python and the Flask framework, designed to streamline operations within a medical clinic. It offers roles for both patients and doctors, providing functionalities for managing appointments, medical records, prescriptions, and more.
 
